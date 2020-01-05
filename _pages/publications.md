@@ -6,34 +6,35 @@ author_profile: true
 <br>
 <b>[Toward Universal Stripe Removal Via Wavelet-based Deep Convolutional Neural Network](https://owuchangyuo.github.io/publications/TSWEU)</b> <br> 
 <b>Yi Chang</b>, Meiya Chen, Luxin Yan, Xi-le Zhao, Yi Li, Sheng Zhong.
-<i>IEEE Transactions on Geoscience and Remote Sensing</i>. <b>TGRS 2020</b>.
+<i>IEEE Trans. on Geoscience and Remote Sensing</i>. <b>TGRS 2020</b>.
 
 <b>[HSI-DeNet: Hyperspectral Image Restoration via Convolutional Neural Network](https://owuchangyuo.github.io/publications/HSI-DeNet)</b> <br> 
 <b>Yi Chang</b>, Luxin Yan, Houzhang Fang, Sheng Zhong, Wenshan Liao.
-<i>IEEE Transactions on Geoscience and Remote Sensing</i>. <b>TGRS 2019</b>.
+<i>IEEE Trans. on Geoscience and Remote Sensing</i>. <b>TGRS 2019</b>.
 
-<b>[Directional-aware Automatic Defect Detection in High-Speed Railway Catenary System](http://lantaoyu.com/publications/D3)</b> <br> 
+<b>[Directional-aware Automatic Defect Detection in High-Speed Railway Catenary System](https://owuchangyuo.github.io/publications/D3)</b> <br> 
 Huimin Liu, <b>Yi Chang</b>, Ziqin Li, Sheng Zhong and Luxin Yan.
 <i>IEEE Conference on Image Processing</i>. <b>ICIP 2019</b>.
 
-<b>[Meta-Inverse Reinforcement Learning with Probabilistic Context Variables](http://lantaoyu.com/publications/MetaIRL)</b> <br> 
-<b>Lantao Yu</b>\*, Tianhe Yu\*, Chelsea Finn, Stefano Ermon.
-<i>The 33rd Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2019</b>.
+<b>[Two-Stage Convolutional Neural Network for Medical Noise Removal via Image Decomposition](https://owuchangyuo.github.io/publications/MetaIRL)</b> <br> 
+<b>Yi Chang</b>, Luxin Yan, Meiya Chen, Houzhang Fang, and Sheng Zhong.
+<i>IEEE Trans. on Instrumentation and Measurement</i>. <b>TIM 2019</b>.
 
-<b>[Multi-Agent Adversarial Inverse Reinforcement Learning](http://lantaoyu.com/publications/MAAIRL)</b> <br> 
-<b>Lantao Yu</b>, Jiaming Song, Stefano Ermon.
-<i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>. <span style="color:red">(Long Oral)</span>
+<b>[Infrared Aero-Thermal Nonuniform Correction via Deep Multiscale Residual Network](https://owuchangyuo.github.io/publications/DMRN)</b> <br> 
+<b>Yi Chang</b>, Luxin Yan, Li Liu, Houzhang Fang, and Sheng Zhong.
+<i>IEEE Geoscience and Remote Sensing Letter</i>. <b>GRSL 2019</b>. <span style="color:red">(Long Oral)</span>
 
-<b>[CoT: Cooperative Training for Generative Modeling of Discrete Data](http://lantaoyu.com/publications/CoT)</b> <br>
-Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu.
-<i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.
+<b>[A Coarse-to-Fine Method For Infrared Small Target Detection](https://owuchangyuo.github.io/publications/CTF)</b> <br>
+<b>Yi Chang</b>\*, Shoukui Yao\*, and Xiaojuan Qin.
+<i>IEEE Geoscience and Remote Sensing Letter</i>. <b>GRSL 2019</b>.
 
-<b>[Lipschitz Generative Adversarial Nets](http://lantaoyu.com/publications/LGAN)</b> <br>
-Zhiming Zhou, Jiadong Liang, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Weinan Zhang, Yong Yu, Zhihua Zhang. <i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.
+<b>[Destriping Remote Sensing Image via Low-Rank Approximation and Nonlocal Total Variation](https://owuchangyuo.github.io/publications/LRNTV)</b> <br>
+Wenfei Cao, <b>Yi Chang</b>, Guodong Han, and Junbing Li. 
+<i>IEEE Geoscience and Remote Sensing Letter</i>. <b>GRSL 2018</b>.
 
-<b>[Deep Reinforcement Learning for Green Security Games with Real-Time Information](http://lantaoyu.com/publications/RLSGAAAI19)</b><br>
-Yufei Wang, Zheyuan Ryan Shi, <b>Lantao Yu</b>, Yi Wu, Rohit Singh, Lucas Joppa, Fei Fang.
-<i>The Thirty-Third AAAI Conference on Artificial Intelligence.</i> <b>AAAI 2019</b>.
+<b>[Principal Component Dictionary-based Patch Grouping for Image Denoising](https://owuchangyuo.github.io/publications/PCD)</b><br>
+Shoukui Yao, <b>Yi Chang</b>, Xiaojuan Qin, Yaozong Zhang, Tianxu Zhang.
+<i>Journal of Visual Communication and Image Representation.</i> <b>JVCIR 2018</b>.
 
 <b>[Understanding the Effectiveness of Lipschitz-Continuity in Generative Adversarial Nets](http://lantaoyu.com/publications/GanGradient)</b> <br>
 Zhiming Zhou, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Zhihua Zhang, Weinan Zhang, Yong Yu.
