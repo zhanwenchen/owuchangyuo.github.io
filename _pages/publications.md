@@ -68,13 +68,22 @@ Luxin Yan, Wenshan Liao, <b>Yi Chang</b>, Chunan Luo.
 <b>Yi Chang</b>, Luxin Yan, Houzhang Fang, Hai Liu.
 <i>IEEE Geoscience and Remote Sensing Letter</i>. <b>GRSL 2014</b>. 
 
+<b>[Robust Destriping Method with Unidirectional Total Variation and Framelet Regularization](https://owuchangyuo.github.io/publications/UTVFR)</b><br>
+<b>Yi Chang</b>, Houzhang Fang, Luxin Yan, Hai Liu. <b>Optics Express 2013</b>. 
 
+<b>[Joint Blind Deblurrring and Destriping For Remote Sensing Image](https://owuchangyuo.github.io/publications/JBDD)</b> <br>
+<b>Yi Chang</b>\*, Houzhang Fang\*, Luxin Yan, Hai Liu.
+<i>IEEE Conference on Image Processing</i>. <b>ICIP 2013</b>.
 
+<b>[Blind Poissonian Images Deconvolution with Framelet Regularization](https://owuchangyuo.github.io/publications/BIDFR)</b> <br>
+Houzhang Fang, Luxin Yan, Hai Liu, <b>Yi Chang</b>. <b>Optic Letters 2013</b>.
 
+<b>[Spectral Deconvolution and Feature Extraction with Robust Adaptive Tikhonov Regularization](https://owuchangyuo.github.io/publications/RATR)</b> <br> 
+Hai Liu, Luxin Yan, <b>Yi Chang</b>, Houzhang Fang, Tianxu Zhang.
+<i>IEEE Trans. on Instrumentation and Measurement</i>. <b>TIM 2013</b>. 
 
-
-
-
+<b>[A MAP-based Algorithm for Spectroscopic Semi-blind Deconvolution](https://owuchangyuo.github.io/publications/SSD)</b> <br> 
+Hai Liu, Tianxu Zhang, Luxin Yan, Houzhang Fang, <b>Yi Chang</b>. <b>Analyst 2012</b>. 
 
 
 [\* denotes equal contribution]
