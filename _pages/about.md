@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://owuchangyuo.github.io/files/Yi Chang.bmp?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://owuchangyuo.github.io/files/Yi Chang.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 * I am a Posdoc in the AI center at [Pengcheng Lab](http://www.pcl.ac.cn/), advised by Prof. [Yonghong Tian](https://www.pkuml.org/staff/yhtian.html). [[Curriculum Vitae](http://owuchangyuo.com/files/YiChang_cv.pdf)] [[Google Scholar](https://scholar.google.com.hk/citations?user=I1nZ67YAAAAJ&hl=en)]
