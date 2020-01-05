@@ -1,12 +1,12 @@
 ---
-title: "SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient"
+title: "Toward Universal Stripe Removal Via Wavelet-based Deep Convolutional Neural Network"
 collection: publications
-permalink: /publications/SeqGAN
-venue: "The Thirty-First AAAI conference on Artificial Intelligence (AAAI-17)"
-date: 2017-2-7
-citation: '<b>Lantao Yu</b>, Weinan Zhang, Jun Wang, and Yong Yu. <i>The 31st AAAI conference on Artificial Intelligence</i>. <b>AAAI 2017</b>.'
+permalink: /publications/TSWEU
+venue: "IEEE Transactions on Geoscience and Remote Sensing"
+date: 2020-2-7
+citation: '<b>Yi Chang</b>, Meiya Chen, Luxin Yan, Xi-le Zhao, Yi Li and Sheng Zhong. <i>IEEE Transactions on Geoscience and Remote Sensing</i>. <b>TGRS 2020</b>.'
 ---
-[[ArXiv]](https://arxiv.org/abs/1609.05473) [[AAAI Version]](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14344/14489) [[Code]](https://github.com/LantaoYu/SeqGAN) [[Slide]](http://lantaoyu.github.io/files/2017-02-07-aaai-seqgan.pdf)
+[[IEEE]](https://ieeexplore.ieee.org/document/8936525)
 
 
 ## Abstract
