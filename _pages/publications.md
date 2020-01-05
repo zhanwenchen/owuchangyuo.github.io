@@ -22,7 +22,7 @@ Huimin Liu, <b>Yi Chang</b>, Ziqin Li, Sheng Zhong and Luxin Yan.
 
 <b>[Infrared Aero-Thermal Nonuniform Correction via Deep Multiscale Residual Network](https://owuchangyuo.github.io/publications/DMRN)</b> <br> 
 <b>Yi Chang</b>, Luxin Yan, Li Liu, Houzhang Fang, and Sheng Zhong.
-<i>IEEE Geoscience and Remote Sensing Letter</i>. <b>GRSL 2019</b>. <span style="color:red">(Long Oral)</span>
+<i>IEEE Geoscience and Remote Sensing Letter</i>. <b>GRSL 2019</b>. 
 
 <b>[A Coarse-to-Fine Method For Infrared Small Target Detection](https://owuchangyuo.github.io/publications/CTF)</b> <br>
 <b>Yi Chang</b>\*, Shoukui Yao\*, and Xiaojuan Qin.
@@ -73,7 +73,7 @@ Luxin Yan, Wenshan Liao, <b>Yi Chang</b>, Chunan Luo.
 
 <b>[Joint Blind Deblurrring and Destriping For Remote Sensing Image](https://owuchangyuo.github.io/publications/JBDD)</b> <br>
 <b>Yi Chang</b>\*, Houzhang Fang\*, Luxin Yan, Hai Liu.
-<i>IEEE Conference on Image Processing</i>. <b>ICIP 2013</b>.
+<i>IEEE Conference on Image Processing</i>. <b>ICIP 2013</b>. <span style="color:red">(Oral)</span>
 
 <b>[Blind Poissonian Images Deconvolution with Framelet Regularization](https://owuchangyuo.github.io/publications/BIDFR)</b> <br>
 Houzhang Fang, Luxin Yan, Hai Liu, <b>Yi Chang</b>. <b>Optic Letters 2013</b>.
