@@ -46,14 +46,14 @@ Shoukui Yao, <b>Yi Chang</b>, Xiaojuan Qin, Yaozong Zhang, Tianxu Zhang.
 <b>[Hyper-Laplacian Regularized Unidirectional Low-rank Tensor Recovery for Multispectral Image Denoising](https://owuchangyuo.github.io/publications/LLRT)</b><br>
 <b>Yi Chang</b>, Luxin Yan, Sheng Zhong. <i>IEEE Computer Vision and Pattern Recognition.</i> <b>CVPR 2017</b>.
 
-<b>[Iteratively reweighted blind deconvolution with adaptive regularization parameter estimation](https://owuchangyuo.github.io/publications/IRBD)</b><br>
+<b>[Iteratively Reweighted Blind Deconvolution with Adaptive Regularization Parameter Estimation](https://owuchangyuo.github.io/publications/IRBD)</b><br>
 Houzhang Fang, <b>Yi Chang</b>, Gang Zhou.<b>IEEE Accesss 2017</b>.
 
 <b>[Joint Local and Non-local Priors for Ground-based Image Denoising](https://owuchangyuo.github.io/publications/JLNP)</b><br>
 Luxin Yan, Wenshan Liao, <b>Yi Chang</b>, Chunan Luo.
 <i>IEEE International Geoscience and Remote Sensing Symposium.</i> <b>IGARSS 2017</b>. 
 
-<b>[Hyperspectral Image Restoration via Spectral and Spatial Low-rank Approximation](https://owuchangyuo.github.io/publications/DADM)</b><br>
+<b>[Hyperspectral Image Restoration via Spectral and Spatial Low-rank Approximation](https://owuchangyuo.github.io/publications/SSLRA)</b><br>
 <b>Yi Chang</b>, Luxin Yan, Sheng Zhong. <i>IEEE International Geoscience and Remote Sensing Symposium.</i> <b>IGARSS 2017</b>. 
 
 <b>[Remote Sensing Image Stripe Noise Removal: From Image Decomposition Perspective](https://owuchangyuo.github.io/publications/LRSID)</b> <br>
