@@ -4,9 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>[Infomax Neural Joint Source-Channel Coding via Adversarial Bit Flip](http://lantaoyu.com/publications/IABF)</b> <br> 
-Yuxuan Song, Minkai Xu, <b>Lantao Yu</b>, Hao Zhou, Shuo Shao, Yong Yu.
-<i>The 34th AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2020</b>.
+<b>[HSI-DeNet: Hyperspectral Image Restoration via Convolutional Neural Network](http://owuchangyuo.com/publications/HSI-DeNet)</b> <br> 
+<b>Yi Chang</b>, Luxin Yan, Houzhang Fang, Sheng Zhong, Wenshan Liao.
+<i>IEEE Transactions on Geoscience and Remote Sensing</i>. <b>TGRS 2020</b>.
 
 <b>[Improving Unsupervised Domain Adaptation with Variational Information Bottleneck](http://lantaoyu.com/publications/VBDA)</b> <br> 
 Yuxuan Song, <b>Lantao Yu</b>, Zhangjie Cao, Zhiming Zhou, Jian Shen, Shuo Shao, Weinan Zhang, Yong Yu.
