@@ -1,16 +1,21 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com.hk/citations?user=I1nZ67YAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>[HSI-DeNet: Hyperspectral Image Restoration via Convolutional Neural Network](http://owuchangyuo.com/publications/HSI-DeNet)</b> <br> 
-<b>Yi Chang</b>, Luxin Yan, Houzhang Fang, Sheng Zhong, Wenshan Liao.
+
+<b>[Toward Universal Stripe Removal Via Wavelet-based Deep Convolutional Neural Network](https://owuchangyuo.github.io/publications/TSWEU)</b> <br> 
+<b>Yi Chang</b>, Meiya Chen, Luxin Yan, Xi-le Zhao, Yi Li, Sheng Zhong.
 <i>IEEE Transactions on Geoscience and Remote Sensing</i>. <b>TGRS 2020</b>.
 
-<b>[Improving Unsupervised Domain Adaptation with Variational Information Bottleneck](http://lantaoyu.com/publications/VBDA)</b> <br> 
-Yuxuan Song, <b>Lantao Yu</b>, Zhangjie Cao, Zhiming Zhou, Jian Shen, Shuo Shao, Weinan Zhang, Yong Yu.
-<i>Arxiv 2019</i>.
+<b>[HSI-DeNet: Hyperspectral Image Restoration via Convolutional Neural Network](https://owuchangyuo.github.io/publications/HSI-DeNet)</b> <br> 
+<b>Yi Chang</b>, Luxin Yan, Houzhang Fang, Sheng Zhong, Wenshan Liao.
+<i>IEEE Transactions on Geoscience and Remote Sensing</i>. <b>TGRS 2019</b>.
+
+<b>[Directional-aware Automatic Defect Detection in High-Speed Railway Catenary System](http://lantaoyu.com/publications/D3)</b> <br> 
+Huimin Liu, <b>Yi Chang</b>, Ziqin Li, Sheng Zhong and Luxin Yan.
+<i>IEEE Conference on Image Processing</i>.<b>ICIP 2019</b>.
 
 <b>[Meta-Inverse Reinforcement Learning with Probabilistic Context Variables](http://lantaoyu.com/publications/MetaIRL)</b> <br> 
 <b>Lantao Yu</b>\*, Tianhe Yu\*, Chelsea Finn, Stefano Ermon.
