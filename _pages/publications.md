@@ -4,7 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-
 <b>[Toward Universal Stripe Removal Via Wavelet-based Deep Convolutional Neural Network](https://owuchangyuo.github.io/publications/TSWEU)</b> <br> 
 <b>Yi Chang</b>, Meiya Chen, Luxin Yan, Xi-le Zhao, Yi Li, Sheng Zhong.
 <i>IEEE Transactions on Geoscience and Remote Sensing</i>. <b>TGRS 2020</b>.
@@ -15,7 +14,7 @@ author_profile: true
 
 <b>[Directional-aware Automatic Defect Detection in High-Speed Railway Catenary System](http://lantaoyu.com/publications/D3)</b> <br> 
 Huimin Liu, <b>Yi Chang</b>, Ziqin Li, Sheng Zhong and Luxin Yan.
-<i>IEEE Conference on Image Processing</i>.<b>ICIP 2019</b>.
+<i>IEEE Conference on Image Processing</i>. <b>ICIP 2019</b>.
 
 <b>[Meta-Inverse Reinforcement Learning with Probabilistic Context Variables](http://lantaoyu.com/publications/MetaIRL)</b> <br> 
 <b>Lantao Yu</b>\*, Tianhe Yu\*, Chelsea Finn, Stefano Ermon.
