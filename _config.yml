@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Dr."
+title                    : "Yi Chang"
 title_separator          : "-"
 name                     : &name "Yi Chang"
 description              : &description "Posdoc, Pengcheng Lab"
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Yi Chang"
-  avatar           : "Yi Chang.jpg"
+  avatar           : "Yi Chang.bmp"
   bio              : "Posdoc, Pengcheng Lab"
   location         : "Shenzhen, China"
   employer         : 
