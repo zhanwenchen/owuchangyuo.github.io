@@ -47,7 +47,7 @@ Shoukui Yao, <b>Yi Chang</b>, Xiaojuan Qin, Yaozong Zhang, Tianxu Zhang.
 <b>Yi Chang</b>, Luxin Yan, Sheng Zhong. <i>IEEE Computer Vision and Pattern Recognition.</i> <b>CVPR 2017</b>.
 
 <b>[Iteratively reweighted blind deconvolution with adaptive regularization parameter estimation](https://owuchangyuo.github.io/publications/IRBD)</b><br>
-Houzhang Fang, <b>Yi Chang</b>, Gang Zhou. <i>IEEE Access.</i>
+Houzhang Fang, <b>Yi Chang</b>, Gang Zhou.<b>IEEE Accesss 2017</b>.
 
 <b>[Joint Local and Non-local Priors for Ground-based Image Denoising](https://owuchangyuo.github.io/publications/JLNP)</b><br>
 Luxin Yan, Wenshan Liao, <b>Yi Chang</b>, Chunan Luo.
