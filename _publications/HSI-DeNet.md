@@ -4,7 +4,6 @@ collection: publications
 permalink: /publications/HSI-DeNet
 venue: "IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING"
 date: 2019-1-21
-citation: 'Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu. <i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.'
 ---
 [[PDF]](http://owuchangyuo.github.io/files/HSI-DeNet.pdf)
 
