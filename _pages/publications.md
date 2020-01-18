@@ -15,7 +15,7 @@ author_profile: true
 Huimin Liu, <b>Yi Chang</b>, Ziqin Li, Sheng Zhong and Luxin Yan.
 <i>IEEE Conference on Image Processing</i>. <b>ICIP 2019</b>.
 
-<b>[Two-Stage Convolutional Neural Network for Medical Noise Removal via Image Decomposition](https://owuchangyuo.github.io/publications/MetaIRL)</b> <br> 
+<b>[Two-Stage Convolutional Neural Network for Medical Noise Removal via Image Decomposition](https://owuchangyuo.github.io/publications/TSCNN)</b> <br> 
 <b>Yi Chang</b>, Luxin Yan, Meiya Chen, Houzhang Fang, and Sheng Zhong.
 <i>IEEE Trans. on Instrumentation and Measurement</i>. <b>TIM 2019</b>.
 
