@@ -1,9 +1,7 @@
 ---
 title: "Toward Universal Stripe Removal Via Wavelet-based Deep Convolutional Neural Network"
 collection: publications
-permalink: /publications/2020TGRS
-venue: "IEEE Transactions on Geoscience and Remote Sensing"
-date: 2019-11-29
+permalink: /publications/TSWEU
 ---
 [[PDF]](http://owuchangyuo.github.io/files/TSWEU.pdf)
 
