@@ -35,7 +35,7 @@ Wenfei Cao, <b>Yi Chang</b>, Guodong Han, and Junbing Li.
 Shoukui Yao, <b>Yi Chang</b>, Xiaojuan Qin, Yaozong Zhang, Tianxu Zhang.
 <i>Journal of Visual Communication and Image Representation.</i> <b>JVCIR 2018</b>.
 
-<b>[Weighted Low-rank Tensor Recovery for Hyperspectral Image Restoration](https://owuchangyuo.github.io/publications/GanGradient)</b> <br>
+<b>[Weighted Low-rank Tensor Recovery for Hyperspectral Image Restoration](https://owuchangyuo.github.io/publications/WLRTR)</b> <br>
 <b>Yi Chang</b>, Luxin Yan, Xi-le Zhao, Houzhang Fang, Sheng Zhong and Zhijun Zhang.
 <i>ArXiv 2018.</i>
 
