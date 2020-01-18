@@ -184,10 +184,10 @@ collections:
 
 # Defaults
 defaults:
-  # _awards
+  # _posts
   - scope:
       path: ""
-      type: awards
+      type: posts
     values:
       layout: single
       author_profile: true
