@@ -3,7 +3,6 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com.hk/ci
 permalink: /publications/
 author_profile: true
 ---
-<br>
 <b>[Toward Universal Stripe Removal Via Wavelet-based Deep Convolutional Neural Network](https://owuchangyuo.github.io/publications/TSWEU)</b> <br> 
 <b>Yi Chang</b>, Meiya Chen, Luxin Yan, Xi-le Zhao, Yi Li, Sheng Zhong.
 <i>IEEE Trans. on Geoscience and Remote Sensing</i>. <b>TGRS 2020</b>.
