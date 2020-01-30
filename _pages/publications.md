@@ -3,6 +3,11 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com.hk/ci
 permalink: /publications/
 author_profile: true
 ---
+
+<b>[Learning Blind Denoising Network for Noisy Image Deblurring](https://owuchangyuo.github.io/publications/BDN)</b> <br> 
+Meiya Chen, <b>Yi Chang</b>, Shuning Cao, Luxin Yan.
+<i>IEEE International Conference on Acoustics, Speech, and Signal Processing</i>. <b>ICASSP 2020</b>.
+
 <b>[Toward Universal Stripe Removal Via Wavelet-based Deep Convolutional Neural Network](https://owuchangyuo.github.io/publications/TSWEU)</b> <br> 
 <b>Yi Chang</b>, Meiya Chen, Luxin Yan, Xi-le Zhao, Yi Li, Sheng Zhong.
 <i>IEEE Trans. on Geoscience and Remote Sensing</i>. <b>TGRS 2020</b>.
