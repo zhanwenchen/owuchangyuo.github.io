@@ -13,4 +13,5 @@ redirect_from:
 * I received my Bachelor’s Degree in automation from University of Electronic Science and Technology of China, Chengdu, China in 2011,  the M.S. degree in pattern recognition and intelligent systems from the Huazhong University of Science and Technology, Wuhan, China, in 2014, and the Ph.D. degree with the School of Artificial Intelligence and Automation in 2019. From 2014 to 2015, he was a Research Assistant with Peking University, Beijing, China. He was a Research Intern with the Tencent Youtu Lab, Shenzhen, China.
 
 # Recent News
+* Janunary 25, 2020. One paper for noisy image deblurring has been accepted to ICASSP 2020.
 * November 29, 2019. One paper for general stripe noise removal has been accepted to TGRS.
