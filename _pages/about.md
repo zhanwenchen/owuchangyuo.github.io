@@ -14,7 +14,7 @@ redirect_from:
 
 # Recent News
 
-* May 26, 2020: The source code of the 2020TCYB WLRTR has been uploaded!
+* May 26, 2020. The source code of the 2020TCYB WLRTR has been uploaded!
 * Aprail 30, 2020. Our 2019TGRS work HSI-DeNet has been listed as the highly cited paper!
 * March 3, 2020. One paper for comprehensive HSI restoration has been accepted to IEEE Trans. on Cybernetics.
 * Janunary 25, 2020. One paper for noisy image deblurring has been accepted to ICASSP 2020.
