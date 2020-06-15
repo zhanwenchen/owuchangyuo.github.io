@@ -14,6 +14,8 @@ redirect_from:
 
 # Recent News
 
+* June 15, 2020. I have been granted with the Equipment Pre-Research Foundation "装备预研重点实验室基金".
+* June 15, 2020. I have been awarded with the Initiative Postdocs Supporting Program "博士后创新人才支持计划".
 * May 26, 2020. The source code of the 2020TCYB WLRTR has been uploaded.
 * April 30, 2020. Our 2019TGRS work HSI-DeNet has been listed as the highly cited paper!
 * March 3, 2020. One paper for comprehensive HSI restoration has been accepted to IEEE Trans. on Cybernetics.
