@@ -14,6 +14,7 @@ redirect_from:
 
 # Recent News
 
+* August 9, 2020. One co-author paper for rain streak removal has been accepted to IEEE Trans. Neural Netw. Learn. Syst.
 * June 28, 2020. I have been granted with the China Postdoctoral Science Foundation "中国博士后科学基金".
 * June 15, 2020. I have been granted with the Equipment Pre-Research Foundation "装备预研重点实验室基金".
 * June 15, 2020. I have been awarded with the Initiative Postdocs Supporting Program "博士后创新人才支持计划".
